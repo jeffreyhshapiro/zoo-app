@@ -1,0 +1,15 @@
+{
+  "name": "zoo-app",
+  "version": "1.0.0",
+  "description": "An exercise in using databases for homework!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Shapiro",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "prompt": "^0.2.14"
+  }
+}
